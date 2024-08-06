@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908690814194",
+    "project_id": "oonzoo-sample",
+    "storage_bucket": "oonzoo-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908690814194:android:609b79fd9b0d789e1c8c6b",
+        "android_client_info": {
+          "package_name": "com.oonzoo.assingment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZfmHzWOOVDjpbtSbBEXa8AYiHk0f0Z-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
